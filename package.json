@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release-jira",
+  "version": "1.0.0",
+  "description": "Semantic Release Jira issue finder and status validation helper",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@semantic-release/error": "^2.2.0",
+    "jira-connector": "^3.1.0",
+    "lodash": "^4.17.19",
+    "p-limit": "^2.2.2",
+    "tslib": "^1.11.1"
+  }
+}
